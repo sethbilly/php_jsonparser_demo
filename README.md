@@ -17,9 +17,9 @@
  **How to run**
 - Clone from Github
 ```bash
-git clone git@github.com:sethbilly/loginapi.git
+git clone https://github.com/sethbilly/php_jsonparser_demo.git
 
-cd thinksurance_jsonparser_demo
+cd php_jsonparser_demo
 
 ```
 
