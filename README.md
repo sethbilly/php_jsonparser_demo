@@ -2,9 +2,11 @@
  
  **Technology**
 
-- PHP 7.4
+- PHP
 
 - PHPUnit
+  
+- Guzzle HTTP Client
 
 
  **Main Packages**
@@ -12,6 +14,8 @@
 - This can be found in the composer.json in the root directory of the project
 
 - PHPUnit =>7.0 was used for testing
+
+- Guzzle Http Client was used for making the http request to the api
 
 
  **How to run**
